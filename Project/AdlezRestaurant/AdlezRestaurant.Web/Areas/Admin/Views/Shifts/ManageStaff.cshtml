@@ -1,0 +1,52 @@
+﻿@model IEnumerable<ShiftDetail>
+@{
+    Layout = "";
+    List<Staff> staffs = ViewData["StaffInfo"] as List<Staff>;
+}
+@if (Model != null)
+{
+    <h1 class="text-center">@ViewBag.ShiftName</h1>
+    <hr />
+
+    <strong>Number of staffs in this shift: @Model.Count()</strong>
+    <form asp-action="SaveManageStaff" asp-route-id="@ViewBag.ShiftId" onsubmit="return JqueryAjaxPost(this)" autocomplete="off">
+        <div class="container-fluid border" style="overflow: auto; max-height: 850px;">
+            @for (int i = 0; i < staffs.Count(); i++)
+            {
+                string inputAndName = "checkStaff" + staffs[i].StaffId;
+                if (Model.Select(m => m.Staff.StaffId).Contains(staffs[i].StaffId))
+                {
+                    string sname = "First name: " + staffs[i].FirstName + " - Phone: " + staffs[i].Phone;
+                    <div class="form-group">
+                        <input id="@inputAndName" name="@inputAndName" type="checkbox" value="True" checked="checked" onclick="setValueCheck(this)">
+                        <label for="@inputAndName">@sname</label>
+                    </div>
+                }
+                else
+                {
+                    string sname = "First name: " + staffs[i].FirstName + " - Phone: " + staffs[i].Phone;
+                    <div class="form-group">
+                        <input id="@inputAndName" name="@inputAndName" type="checkbox" value="False" onclick="setValueCheck(this)">
+                        <label for="@inputAndName">@sname</label>
+                    </div>
+                }
+            }
+        </div>
+        <input type="submit" class="btn btn-primary btn-block" value="Save" />
+    </form>
+}
+else
+{
+    <strong>Error</strong>
+}
+
+<script>
+    function setValueCheck(ckc){
+        if(ckc.value == "True"){
+            ckc.setAttribute("value", "False");
+        }
+        else if(ckc.value == "False"){
+            ckc.setAttribute("value", "True");
+        }
+    }
+</script>

@@ -1,0 +1,123 @@
+﻿@using AdlezRestaurant.Web.Areas.Admin.ViewModels
+@model ReceiptNote
+
+@{
+    ViewData["Title"] = "Details";
+    int d = 1;
+}
+
+<h1>Details</h1>
+
+<div class="container">
+    <div class="col-md-12">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="row">
+                    Adlez restaurant - 2022
+                </div>
+                <div class="row">
+                    Address: 999 Cau Dien, Bac Tu Liem, Ha Noi.
+                </div>
+                <div class="row">
+                    Tel: 0988.888.888
+                </div>
+            </div>
+            <div class="col-md-8 text-right">
+                <span>
+                    <img src="~/images/favicon.png" alt="err" height="100" width="100"/>
+                </span>
+            </div>
+        </div>
+        <div class="form-group text-center">
+            <h4>Goods Receipt Note</h4>
+        </div>
+        <div class="p-4">
+            <div class="row">
+                <div class="col-md-6">
+                    <label name="StockInId" class="control-label">GRN #</label>: @Model.StockInId
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label name="StaffName" class="control-label">Staff's name</label>: @Model.StaffName
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label name="CreatedDate" class="control-label">CreatedDate</label>: @Model.CreatedDate.ToString("dd/MM/yyyy")
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="border border-primary mb-2 p-2" style="min-height: 300px;">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>No. </th>
+                        <th>Name</th>
+                        <th>Cal. unit</th>
+                        <th>Unit price</th>
+                        <th>Quantity</th>
+                        <th>Total</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model.GoodsReceiptNotes.Count() > 0)
+                    {
+                        foreach (var item in Model.GoodsReceiptNotes)
+                        {
+                            <tr>
+                                <td width="5%">
+                                    <span class="totalRow">@d</span>
+                                </td>
+                                <td width="40%">
+                                    <span>@item.Ingredient.Name</span>
+                                </td>
+                                <td width="10%">
+                                    <span>@item.Ingredient.CalculationUnit</span>
+                                </td>
+                                <td width="15%">
+                                    <span>@item.GoodsUnitPrice</span>
+                                </td>
+                                <td width="10%">
+                                    <span>@item.GoodsNumber</span>
+                                </td>
+                                <td width="20%">
+                                    <span>@Convert.ToDecimal(@item.GoodsUnitPrice * @item.GoodsNumber)</span>
+                                </td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+            <hr />
+            <table>
+                <tr>
+                    <td width="5%">
+                    </td>
+                    <td width="40%"></td>
+                    <td width="10%"></td>
+                    <td width="15%"></td>
+                    <td width="10%">Total money: </td>
+                    <td width="20%">
+                        @Model.TotalMoney.ToString("C2")
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="row mt-5">
+            <div class="col-md-3 mt-5">
+                <span>Sign......................................</span>
+            </div>
+        </div>
+        <div class="form-group text-right">
+            <a asp-action="Print" asp-controller="GoodsReceiptNotes" asp-route-id="@Model.StockInId" target="_blank" class="btn btn-primary">Print</a>
+        </div>
+    </div>
+</div>

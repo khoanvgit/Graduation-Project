@@ -1,0 +1,103 @@
+﻿@using AdlezRestaurant.Web.Const
+@model IEnumerable<AdlezRestaurant.Core.Models.StockIn>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Stock Ins</h1>
+
+<p style="text-align: center;">
+    <a asp-action="CreateOrEdit" class="btn btn-success"><i class="fas fa-plus-square"></i> New</a>
+</p>
+<p>
+    <a asp-action="Index" asp-route-showAll="show" class="text-light ml-2 btn btn-info">Show all receipt notes</a>
+</p>
+<table id="userDatatable" class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.StockInId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Staff.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ReceiveDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                Action
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null)
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.StockInId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Staff.LastName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ReceiveDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Status)
+                    </td>
+                    <td>
+                        @if (@item.Status != null)
+                        {
+                            @if (@item.Status.Equals(ReceiptNoteStatus.Pending))
+                            {
+                                <a asp-action="CreateOrEdit" asp-route-id="@item.StockInId" class="text-primary mr-2"><i class="fas fa-edit"></i></a>
+                            }
+                            else
+                            {
+                                <a href="#" class="text-primary mr-2" style="visibility: hidden;"><i class="fas fa-edit"></i></a>
+                            }
+                        }
+                        else
+                        {
+                            <a href="#" class="text-primary mr-2" style="visibility: hidden;"><i class="fas fa-edit"></i></a>
+                        }
+                        <a asp-action="Details" asp-route-id="@item.StockInId" class="text-secondary mr-2"><i class="fas fa-eye"></i></a>
+                        @if (@item.Status != null)
+                        {
+                            @if (!@item.Status.Equals(ReceiptNoteStatus.Trash))
+                            {
+                                <form asp-action="Delete" asp-route-id="@item.StockInId" class="d-inline">
+                                    <button type="submit" onclick="askBefore(event)" style="border-top-style: hidden;border-bottom-style: hidden;border-left-style: hidden;border-right-style: hidden; outline: none; color: red; background-color: transparent;"><i class="fas fa-trash"></i></button>
+                                </form>
+                            }
+                            else
+                            {
+                                <a href="#" class="text-primary mr-2" style="visibility: hidden;"><i class="fas fa-edit"></i></a>
+                            }
+                        }
+                        else
+                        {
+                            <a href="#" class="text-primary mr-2" style="visibility: hidden;"><i class="fas fa-edit"></i></a>
+                        }
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+
+@section Scripts{
+    <script>
+        function askBefore(e){
+            if(!confirm("Do you want to move this item to the trash?")){
+                e.preventDefault();
+            }
+        }
+    </script>
+}

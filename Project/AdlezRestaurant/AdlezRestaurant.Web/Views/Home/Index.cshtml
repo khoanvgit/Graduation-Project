@@ -1,0 +1,30 @@
+﻿@using AdlezRestaurant.Web.Const
+
+<!-- store -->
+@if (ViewBag.isTopAlpha == true && ViewBag.isHighPrice == true)
+{
+    @await Component.InvokeAsync("DishMenu", new {Alphabet = SortOption.ASC, Price = SortOption.High})
+}
+else
+{
+    if (ViewBag.isTopAlpha == true && ViewBag.isHighPrice == false)
+    {
+        @await Component.InvokeAsync("DishMenu", new {Alphabet = SortOption.ASC, Price = ""})
+    }
+    else if (ViewBag.isTopAlpha == false && ViewBag.isHighPrice == true)
+    {
+        @await Component.InvokeAsync("DishMenu", new {Alphabet = "", Price = SortOption.High})
+    }
+    else
+    {
+        @await Component.InvokeAsync("DishMenu", new {Alphabet = "", Price = ""})
+    }
+}
+
+<!-- end store -->
+<!-- about -->
+<partial name="_AboutPartial" />
+<!-- end about -->
+<!-- reservation -->
+<partial name="_ReservationPartial" />
+<!-- end reservation -->

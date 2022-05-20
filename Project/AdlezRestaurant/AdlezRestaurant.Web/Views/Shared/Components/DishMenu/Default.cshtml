@@ -1,0 +1,109 @@
+﻿@using AdlezRestaurant.Web.Const
+@model IList<Dish>
+
+<div class="store">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="titlepage">
+                    <h2>Our menu <span class="red">today</span></h2>
+                    <p>Check out our menu of dishes to get your favorite dishes.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 border-bottom mb-3 border-bottom-secondary">
+                <div style="text-align: center; float: right; column-count: 3;" class="red">
+                    <div class="mr-2">
+                        <label for="azsort">A - Z: </label>
+                        @if (ViewBag.isTopAlpha != true)
+                        {
+                            <a id="azsort" href="@Url.Action("Index", "Home", new {Alphabet = SortOption.ASC})"><i class="fa fa-arrow-up"></i></a>
+                        }
+                        else
+                        {
+                            <a id="azsort" href="@Url.Action("Index", "Home", new {Alphabet = SortOption.DESC})"><i class="fa fa-arrow-down"></i></a>
+                        }
+                    </div>
+                    <div class="mr-2">
+                        <label for="pricesort">Price: </label>
+                        @if (ViewBag.isHighPrice != true)
+                        {
+                            <a id="pricesort" href="@Url.Action("Index", "Home", new {Price = SortOption.High})">High to low</a>
+                        }
+                        else
+                        {
+                            <a id="pricesort" href="@Url.Action("Index", "Home", new {Price = SortOption.Low})">Low to high</a>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div style="column-count: 2;">
+            @foreach (var item in Model)
+            {
+                string modalId = "modal" + @item.DishId;
+                string modalTarget = "#modal" + @item.DishId;
+                <div style="height: 350px;">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="store_box">
+                                <figure style="max-width: 350px; max-height:250px;"><img class="dish_img" style="border-radius: 10px;" src="/DishImages/@item.Image" alt="#" /></figure>
+                            </div>
+                        </div>
+                        <div class="col-md-8">
+                            <div class="store_box ">
+                                <h3>@item.Name</h3>
+                                <div>Type: @item.DishType.Name</div>
+                                <p>
+                                    @item.Description
+                                </p>
+                                <h3>Price: <i>$@item.Price</i></h3>
+
+                                <button type="button" class="btn btn-outline-secondary mt-3" data-toggle="modal" data-target="@modalTarget">
+                                    Reviews
+                                </button>
+                                <div class="modal fade" id="@modalId" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h3 class="modal-title" id="exampleModalLongTitle">@item.Name</h3>
+                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                            </div>
+                                            <div class="modal-body">
+                                                @for (int j = 0; j < 5; j++)
+                                                {
+                                                    <div class="row border-bottom mb-2 p-2">
+                                                        <div class="col-2">
+                                                            <img src="/images/profile/pic1.jpg" alt="#" width="50" height="50">
+                                                        </div>
+                                                        <div class="col-10">
+                                                            <div class="row">
+                                                                <h4>David Henderson @j</h4>
+                                                            </div>
+                                                            <div class="row">
+                                                                @for (int i = 0; i < 5; i++)
+                                                                {
+                                                                    <img class="star" src="/images/star-vote.png" alt="#" />
+                                                                }
+                                                            </div>
+                                                            <div class="row">
+                                                                The best delicious dish I've ever eaten in my whole life !!
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                }
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

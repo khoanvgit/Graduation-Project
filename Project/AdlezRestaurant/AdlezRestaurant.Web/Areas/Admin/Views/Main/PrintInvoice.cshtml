@@ -1,0 +1,118 @@
+﻿@model IEnumerable<OrderDetail>
+
+@{
+    Layout = "";
+    int d = 0;
+}
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Print Page</title>
+    <link rel="icon" href="~/images/favicon.ico" type="image/png" />
+    <!-- Custom fonts for this template-->
+    <link href="~/Admin/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
+          rel="stylesheet">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <style>
+        .container {
+            width: 750px;
+            margin: auto;
+            padding: 50px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="invoice-container" ref="document" id="html">
+            <table style="width:100%; height:auto;  text-align:center; " BORDER=0 CELLSPACING=0>
+                <thead style="background:#fafafa; padding:8px;">
+                    <tr style="font-size: 20px;">
+                        <td colspan="3" style="padding:20px 20px;text-align: left;">A D L E Z</td>
+                        <td>
+                            <img src="~/images/logo.png" alt="error" height="50" width="50" />
+                        </td>
+                    </tr>
+                    <tr style="font-size: 20px;">
+                        <td colspan="4" style="padding:0px 35px;text-align: left; font-size: 13px; font-style: italic;" class="mt-0 pb-2">
+                            <div class="row">
+                                Address: 999 Cau Dien, Bac Tu Liem, Ha Noi.
+                            </div>
+                            <div class="row">
+                                Tel: 0988.888.888
+                            </div>
+                        </td>
+                    </tr>
+                </thead>
+                <tbody style="background:#ffff;padding:20px;">
+                    <tr>
+                        <td style="text-align:left;padding:10px 0px 10px 20px;font-size:14px;">Invoice number: @ViewBag.orderId</td>
+                        <td colspan="2"></td>
+                        <td style="text-align:left;padding:10px 0px 10px 20px;font-size:14px;">Customer: @ViewBag.customerName</td>
+                    </tr>
+                    <tr>
+                        <td style="text-align:left;padding:10px 0px 10px 20px;font-size:14px;">Invoice date: @ViewBag.orderDate</td>
+                        <td colspan="2"></td>
+                        <td style="text-align:left;padding:10px 0px 10px 20px;font-size:14px;">Table: @ViewBag.table</td>
+                    </tr>
+                </tbody>
+            </table>
+            <table class="table">
+                <thead>
+                    <tr style="color:#6c757d;">
+                        <th class="py-2">No.</th>
+                        <th class="py-2">Name</th>
+                        <th class="py-2">Quantity</th>
+                        <th class="py-2">Unit price</th>
+                        <th class="py-2">Total price</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        d++;
+                        decimal tp = item.DishNumber * @item.Dish.Price.Value;
+                        <tr>
+                            <td class="py-2">@d</td>
+                            <td class="py-2">@item.Dish.Name</td>
+                            <td class="py-2">@item.DishNumber</td>
+                            <td class="py-2">@item.Dish.Price.Value.ToString("C2")</td>
+                            <td class="py-2">@tp.ToString("C2")</td>
+                        </tr>
+                    }
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <th colspan="4" class="py-2 text-right">Sub total</th>
+                        <td class="py-2">@ViewBag.subTotal</td>
+                    </tr>
+                    <tr>
+                        <th colspan="4" class="py-2 text-right">Tax(5%)</th>
+                        <td class="py-2">@ViewBag.tax</td>
+                    </tr>
+                    <tr>
+                        <th colspan="4" class="py-2 text-right">TOTAL MONEY</th>
+                        <td class="py-2">@ViewBag.totalM</td>
+                    </tr>
+                </tfoot>
+            </table>
+        </div>
+        <div class="text-center" style="background:#fafafa; padding:8px;">
+            <div>
+                ********************************************************
+                <h2>THANK YOU</h2>
+                ********************************************************************
+            </div>
+            <div>
+                <img src="~/images/qr-webhome.png" height="100" width="100" alt="#" />
+            </div>
+            <div>
+                Scan to visit our website or directly go to: <i><u>https://localhost:44370</u></i> .
+            </div>
+        </div>
+    </div>
+    <script>
+        window.print();
+    </script>
+</body>
+</html>

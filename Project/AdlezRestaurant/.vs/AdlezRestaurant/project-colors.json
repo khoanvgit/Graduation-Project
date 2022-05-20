@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4bed2831-a933-4ac5-ba54-f65a26ee4f77": {
+      "ProjectGuid": "4bed2831-a933-4ac5-ba54-f65a26ee4f77",
+      "DisplayName": "AdlezRestaurant.Core",
+      "ColorIndex": 0
+    },
+    "a46b0bdc-bed2-42dc-ac60-7c481b25585f": {
+      "ProjectGuid": "a46b0bdc-bed2-42dc-ac60-7c481b25585f",
+      "DisplayName": "AdlezRestaurant.DataAccessLayer",
+      "ColorIndex": 1
+    },
+    "563a94af-f549-45f4-be75-1a9703d80a7f": {
+      "ProjectGuid": "563a94af-f549-45f4-be75-1a9703d80a7f",
+      "DisplayName": "AdlezRestaurant.Web",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

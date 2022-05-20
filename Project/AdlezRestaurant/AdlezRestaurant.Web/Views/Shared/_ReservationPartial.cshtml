@@ -1,0 +1,37 @@
+﻿<div id="talk" class="talk">
+    <div class="container">
+        <div class="row ">
+            <div class="col-md-6 ">
+                <div class="wines">
+                    <div style="margin-top: 20px">
+                        <h3>Reservation</h3>
+                        <p>Get ready before going to restaurant</p>
+                        <img src="~/images/reserved.png" alt="reserved" style="max-width: 50%; max-height: 50%; margin-top: -40px"/>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 ">
+                <form class="main_form" action="~/Home/Reservate" method="post">
+                    <div class="row">
+                        <div class="col-md-12 ">
+                            <input class="form_contril" placeholder="Name " type="text" name="CustomerName" required>
+                        </div>                      
+                        <div class="col-md-12">     
+                            <input class="form_contril" placeholder="Phone Number" type="text" name="PhoneNumber" required>
+                        </div>                      
+                        <div class="col-md-12">     
+                            <input id="viproom" type="checkbox" name="Viproom" value="vip">
+                            <label for="viproom">Required vip room</label>
+                        </div>                      
+                        <div class="col-md-12">     
+                            <input class="form_contril" placeholder="Number of people" type="number" min="1" name="NumberOfPeople" required/>
+                        </div>
+                        <div class="col-sm-12">
+                            <button type="submit" class="send_btn">Reserve now !</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

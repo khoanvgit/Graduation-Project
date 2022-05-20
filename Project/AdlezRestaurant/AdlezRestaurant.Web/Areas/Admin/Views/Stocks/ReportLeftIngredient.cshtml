@@ -1,0 +1,89 @@
+﻿@model IEnumerable<Stock>
+
+@{
+    ViewData["Title"] = "Report left ingredients";
+    int d = 0;
+}
+
+<h1>Report</h1>
+@if (Model != null)
+{
+    <div class="container">
+        <div class="col-md-12">
+            <div class="row">
+                <div class="form-group col-6">
+                    <input id="searchStock" type="search" name="search" class="form-control" placeholder="Type something to search..." />
+                </div>
+            </div>
+            <form asp-action="SubmitReport" asp-controller="Stocks" method="post">
+                <div style="overflow: auto; max-height: 800px !important;">
+                    <table class="table table-bordered">
+                        <thead style="position: sticky; top: 0; background-color: lightgrey;">
+                            <tr>
+                                <th scope="col" width="5%">No. </th>
+                                <th scope="col">Name</th>
+                                <th scope="col" width="15%">Quantity</th>
+                                <th scope="col" width="20%">Action</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                d++;
+                                string idn = "report" + @item.StockId;
+                                string oldIdn = "oldIdn" + @item.IngredientId;
+                                string oldQuantityIdn = "oldQuan" + @item.IngredientId;
+                                <tr>
+                                    <th scope="row">
+                                        @d
+                                    </th>
+                                    <td>@item.Name</td>
+                                    <td>
+                                        <input id="@oldIdn" type="text" value="@idn" hidden>
+                                        <input id="@oldQuantityIdn" type="number" value="@item.Quantity" hidden>
+                                        <input id="@idn" name="@idn" type="number" class="form-control" value="@item.Quantity" disabled="disabled" min="0" max="@item.Quantity">
+                                    </td>
+                                    <td>
+                                        <button type="button" class="btn btn-warning" onclick="modifyQuantity('@idn')">Change</button>
+                                        <button type="button" class="btn btn-info" onclick="resetQuantity('@idn', '@oldIdn', '@oldQuantityIdn')">Reset</button>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+                <input type="submit" onclick="askBefore(event)" class="btn btn-primary float-right" value="Submit">
+            </form>
+        </div>
+    </div>
+}
+else
+{
+    <h2>Empty stock</h2>
+}
+
+@section Scripts{
+<script>
+    @if(TempData["msgError"] != null){
+        @: $.notify('@TempData["msgError"]', { globalPosition: 'top center', className: 'warning' });
+    }
+    function modifyQuantity(idn){
+        var inp = document.getElementById(idn);
+        inp.removeAttribute("disabled");
+        inp.setAttribute("name", idn + "modified");
+    }
+
+    function resetQuantity(idn, oldIdn, oldQuantityIdn){
+        var inp = document.getElementById(idn);
+        inp.value = document.getElementById(oldQuantityIdn).value;
+        inp.setAttribute("disabled", "disabled");
+        inp.setAttribute("name", document.getElementById(oldIdn).value)
+
+    }
+    function askBefore(e){
+        if(!confirm("Are you sure to continue?")){
+            e.preventDefault();
+        }
+    }
+</script>
+}

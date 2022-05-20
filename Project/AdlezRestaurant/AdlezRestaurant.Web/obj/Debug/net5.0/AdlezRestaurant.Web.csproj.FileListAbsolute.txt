@@ -1,0 +1,1164 @@
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\appsettings.Development.json
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\appsettings.json
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\libman.json
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\AdlezRestaurant.Web.StaticWebAssets.xml
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\AdlezRestaurant.Web.exe
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\AdlezRestaurant.Web.deps.json
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\AdlezRestaurant.Web.runtimeconfig.json
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\AdlezRestaurant.Web.runtimeconfig.dev.json
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\AdlezRestaurant.Web.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\ref\AdlezRestaurant.Web.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\AdlezRestaurant.Web.pdb
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\mscorlib.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\netstandard.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Collections.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Console.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Core.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Data.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Linq.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Memory.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Threading.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Web.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Windows.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Xml.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\AdlezRestaurant.Web.Views.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\AdlezRestaurant.Web.Views.pdb
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Azure.Core.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Azure.Identity.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Humanizer.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Assessment.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Assessment.Types.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.Data.Tools.Sql.BatchParser.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Dmf.Common.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Dmf.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Management.Assessment.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Management.Collector.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Management.CollectorEnum.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Management.HadrData.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Management.HadrModel.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Management.RegisteredServers.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Management.XEvent.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Management.XEventDbScoped.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Management.XEventEnum.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.PolicyEnum.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Smo.Notebook.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Smo.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.SmoExtended.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.SqlEnum.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.SqlWmiManagement.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.WmiEnum.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.CodeDom.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.Data.OleDb.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.Management.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.Memory.Data.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\AdlezRestaurant.Core.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\AdlezRestaurant.DataAccessLayer.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\AdlezRestaurant.DataAccessLayer.pdb
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\AdlezRestaurant.Core.pdb
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.csproj.AssemblyReference.cache
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.AssemblyInfoInputs.cache
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.AssemblyInfo.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.csproj.CoreCompileInputs.cache
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.RazorAssemblyInfo.cache
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.RazorAssemblyInfo.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\scopedcss\bundle\AdlezRestaurant.Web.styles.css
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\staticwebassets\AdlezRestaurant.Web.StaticWebAssets.Manifest.cache
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\staticwebassets\AdlezRestaurant.Web.StaticWebAssets.xml
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.TagHelpers.input.cache
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.TagHelpers.output.cache
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.RazorCoreGenerate.cache
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Customers\CreateOrEdit.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Customers\Index.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Customers\_ViewAll.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dishes\CreateOrEdit.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dishes\Index.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dishes\_ViewAll.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\DishTypes\CreateOrEdit.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\DishTypes\Index.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\DishTypes\_ViewAll.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\GoodsReceiptNotes\CreateOrEdit.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\GoodsReceiptNotes\Details.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\GoodsReceiptNotes\Index.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Groups\CreateOrEdit.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Groups\Index.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Groups\_ViewAll.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\LogIn.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Ingredients\CreateOrEdit.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Ingredients\Index.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Ingredients\_ViewAll.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Main\CreateAndOrder.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Main\Index.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Main\ReservationRequest.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Main\_Detail.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Main\_Tables.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Orders\Create.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Reviews\CreateOrEdit.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Reviews\Index.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Reviews\_ViewAll.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_FooterPartial.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_LogInLayout.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_SidebarPartial.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_TopbarPartial.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shifts\CreateOrEdit.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shifts\Index.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shifts\_ViewAll.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Staffs\CreateOrEdit.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Staffs\Index.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Staffs\_ViewAll.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Stocks\Create.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Stocks\Edit.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Stocks\Index.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Index.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_FooterPartial.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_SidebarPartial.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_TopbarPartial.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Home\Reservate.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\DishMenu\Default.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Shared\_AboutPartial.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Shared\_FooterPartial.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Shared\_HeaderPartial.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Shared\_LoaderPartial.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Shared\_ReservationPartial.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Shared\_TestimonialPartial.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.RazorTargetAssemblyInfo.cache
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.RazorTargetAssemblyInfo.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.Views.pdb
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.csproj.CopyComplete
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\ref\AdlezRestaurant.Web.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.pdb
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.genruntimeconfig.cache
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Main\IngredientRequest.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Staffs\Schedule.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shifts\ManageStaff.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Stocks\ReportLeftIngredient.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\StatisticReport.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Quartz.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Quartz.Extensions.DependencyInjection.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Quartz.Extensions.Hosting.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\GoodsReceiptNotes\Print.cshtml.g.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Main\PrintInvoice.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\libman.json
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\AdlezRestaurant.Web.StaticWebAssets.xml
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\AdlezRestaurant.Web.exe
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\AdlezRestaurant.Web.deps.json
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\AdlezRestaurant.Web.runtimeconfig.json
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\AdlezRestaurant.Web.runtimeconfig.dev.json
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\AdlezRestaurant.Web.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\ref\AdlezRestaurant.Web.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\AdlezRestaurant.Web.pdb
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\mscorlib.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\netstandard.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Collections.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Console.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Core.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Data.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Linq.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Memory.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Threading.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Web.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Windows.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Xml.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\AdlezRestaurant.Web.Views.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\AdlezRestaurant.Web.Views.pdb
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Azure.Identity.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Assessment.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Dmf.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.Smo.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Quartz.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Quartz.Extensions.DependencyInjection.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\Quartz.Extensions.Hosting.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.Data.OleDb.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.Management.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\AdlezRestaurant.Core.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\AdlezRestaurant.DataAccessLayer.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\AdlezRestaurant.DataAccessLayer.pdb
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\bin\Debug\net5.0\AdlezRestaurant.Core.pdb
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.csproj.AssemblyReference.cache
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.AssemblyInfoInputs.cache
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.AssemblyInfo.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.RazorAssemblyInfo.cache
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.RazorAssemblyInfo.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\scopedcss\bundle\AdlezRestaurant.Web.styles.css
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\staticwebassets\AdlezRestaurant.Web.StaticWebAssets.Manifest.cache
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\staticwebassets\AdlezRestaurant.Web.StaticWebAssets.xml
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.TagHelpers.input.cache
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.TagHelpers.output.cache
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.RazorCoreGenerate.cache
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Customers\CreateOrEdit.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Customers\Index.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Customers\_ViewAll.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dishes\CreateOrEdit.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dishes\Index.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dishes\_ViewAll.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\DishTypes\CreateOrEdit.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\DishTypes\Index.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\DishTypes\_ViewAll.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\GoodsReceiptNotes\CreateOrEdit.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\GoodsReceiptNotes\Details.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\GoodsReceiptNotes\Index.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\GoodsReceiptNotes\Print.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Groups\CreateOrEdit.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Groups\Index.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Groups\_ViewAll.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\LogIn.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\StatisticReport.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Ingredients\CreateOrEdit.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Ingredients\Index.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Ingredients\_ViewAll.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Main\CreateAndOrder.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Main\Index.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Main\IngredientRequest.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Main\PrintInvoice.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Main\ReservationRequest.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Main\_Detail.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Main\_Tables.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Orders\Create.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Reviews\CreateOrEdit.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Reviews\Index.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Reviews\_ViewAll.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_FooterPartial.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_LogInLayout.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_SidebarPartial.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_TopbarPartial.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shifts\CreateOrEdit.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shifts\Index.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shifts\ManageStaff.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shifts\_ViewAll.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Staffs\CreateOrEdit.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Staffs\Index.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Staffs\Schedule.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Staffs\_ViewAll.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Stocks\Create.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Stocks\Edit.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Stocks\Index.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Stocks\ReportLeftIngredient.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Index.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_FooterPartial.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_SidebarPartial.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_TopbarPartial.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Home\Reservate.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\DishMenu\Default.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Shared\_AboutPartial.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Shared\_FooterPartial.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Shared\_HeaderPartial.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Shared\_LoaderPartial.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Shared\_ReservationPartial.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Shared\_TestimonialPartial.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.Views.pdb
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.csproj.CopyComplete
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\ref\AdlezRestaurant.Web.dll
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.pdb
+C:\Users\Wolf\Downloads\Compressed\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\Project\AdlezRestaurant\AdlezRestaurant.Web\obj\Debug\net5.0\AdlezRestaurant.Web.genruntimeconfig.cache

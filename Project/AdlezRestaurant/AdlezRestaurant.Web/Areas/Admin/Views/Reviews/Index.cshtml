@@ -1,0 +1,17 @@
+﻿@model IEnumerable<AdlezRestaurant.Core.Models.Review>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Reviews</h1>
+
+<div id="view_all">
+    @await Html.PartialAsync("_ViewAll", Model)
+</div>
+
+@section scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

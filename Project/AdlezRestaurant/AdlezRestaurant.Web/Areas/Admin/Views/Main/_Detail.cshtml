@@ -1,0 +1,224 @@
+﻿@model AdlezRestaurant.Web.Areas.Admin.ViewModels.GeneralModel
+
+
+
+@if (ViewBag.on != null && ViewBag.Status == "busy")
+{
+    int d = 0;
+    decimal totalM = 0;
+    var order = Model.Orders.FirstOrDefault(o => o.TableNumber == ViewBag.on);
+    var orderId = -1;
+    var customerName = "";
+    var orderTime = "";
+    var customerId = 0;
+    if (order != null)
+    {
+        customerName = order.Customer.FirstName;
+        orderTime = order.OrderDate.ToString();
+        orderId = order.OrderId;
+        customerId = order.Customer.CustomerId;
+    }
+
+
+    <div class="col-xxl-6 col-md-6 col-xl-6 col-lg-6">
+        <div id="user-activity" class="card">
+            <div class="card-header border-0 pb-0 d-sm-flex d-block">
+                <h4 class="card-title mb-1">Dishes</h4>
+            </div>
+            <div class="card-body">
+                <div>
+                    <hr style="width: 90%; margin: auto; border-width: 1px; color: black; background-color: black " />
+                    <br />
+                    <div>
+                        <table class="table table-bordered">
+                            <thead class="thead-dark">
+                                <tr>
+                                    <th colspan="4" style="text-align: right;">
+                                        <input class="btn btn-danger btn-sm" value="CANCEL ORDER" onclick="cancelOrder('@Url.Action("CancelOrder", "Main", new {number = ViewBag.on}, Context.Request.Scheme)')" />
+                                    </th>
+                                </tr>
+                                <tr>
+                                    <th scope="col">Name</th>
+                                    <th scope="col">Price</th>
+                                    <th scope="col">Number</th>
+                                    <th scope="col">Option</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model.OrderDetails)
+                                {
+                                    if (item.Order.TableNumber == ViewBag.on)
+                                    {
+                                        <tr>
+                                            <td>@item.Dish.Name</td>
+                                            <td>@item.Dish.Price</td>
+                                            <td>@item.DishNumber</td>
+                                            <td>
+                                                <input class="btn btn-outline-primary btn-sm" value="Cancel" onclick="cancelDish('@Url.Action("CancelDish", "Main", new{ dishId = @item.DishId, orderId = @orderId}, Context.Request.Scheme)', '@ViewBag.on')" />
+                                            </td>
+                                        </tr>
+                                    }
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                    <hr style="width: 90%; margin: auto; border-width: 1px; color: black; background-color: black " />
+                    <br />
+                </div>
+                <div>
+                    <div class="input-group mb-3">
+                        <input class="form-control border border-secondary" id="myInput" type="text" placeholder="Search..">
+                        <div class="input-group-append">
+                            <button id="btnClearSearch" class="btn btn-sm btn-outline-secondary" type="button">Clear</button>
+                        </div>
+                    </div>
+                    <div>
+                        <table class="table table-bordered">
+                            <thead>
+                                <tr>
+                                    <td>Name</td>
+                                    <td>Price</td>
+                                    <td>Number</td>
+                                    <td></td>
+                                </tr>
+                            </thead>
+                            <tbody id="myTable">
+                                @foreach (var item1 in Model.Dishes)
+                                {
+                                    string aa = "dishnum" + @item1.DishId;
+                                    <tr>
+                                        <td>@item1.Name</td>
+                                        <td>@item1.Price</td>
+                                        <td>
+                                            <input id="@aa" type="number" style="width:50px" value="1" min="1" onchange="updateNumber(this)" />
+                                        </td>
+                                        <td>
+                                            <input class="btn btn-outline-primary btn-sm" value="Add" onclick="chooseDish('@Url.Action("AddDish", "Main", new{ dishId = @item1.DishId, orderId = @orderId}, Context.Request.Scheme)', '@aa', '@ViewBag.on')" />
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xxl-6 col-md-6 col-xl-6 col-lg-6">
+        <div class="card">
+            <div class="card-header border-0 pb-0 d-sm-flex d-block">
+                <h4 class="card-title mb-1">Payment</h4>
+            </div>
+            <div class="card-body">
+                <div>
+                    <div>
+                        <label>Customer's Name : @customerName</label><br />
+                        <label>Order Time : @orderTime</label><br />
+                        <label>Table : @ViewBag.on</label><br />
+                    </div>
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>No.</th>
+                                <th>Name</th>
+                                <th>Price</th>
+                                <th>Number</th>
+                                <th>Total price</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model.OrderDetails)
+                            {
+                                if (item.Order.TableNumber == ViewBag.on)
+                                {
+                                    d++;
+                                    decimal totalP = (decimal)(@item.Dish.Price * @item.DishNumber);
+                                    <tr>
+                                        <td>@d</td>
+                                        <td>@item.Dish.Name</td>
+                                        <td>@item.Dish.Price.Value.ToString("C2")</td>
+                                        <td>@item.DishNumber</td>
+                                        <td>$@totalP</td>
+                                    </tr>
+                                    totalM += (decimal)(item.Dish.Price * item.DishNumber);
+                                }
+                            }
+                            <tr>
+                                <td colspan="4" style="text-align:center"><strong>TOTAL MONEY</strong></td>
+                                <td>$<input class="border-0" type="number" readonly id="totalM" value="@totalM" /></td>
+                            </tr>
+                            <tr>
+                                <td colspan="4" style="text-align:center"><strong>CUSTOMER PAY</strong></td>
+                                <td>
+                                    <strong>
+                                        <input id="customerpay" min="0" class="border-bottom" style="outline:0; border-width:0 0 2px;" type="number" placeholder="Type money receive here. . ." autofocus />
+                                    </strong>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="4" style="text-align:center"><strong>CHANGE</strong></td>
+                                <td>$<input class="border-0" type="number" readonly id="changemoney" value="" /></td>
+                            </tr>
+                            <tr>
+                                <td colspan="4" style="text-align:center"><strong>MODE OF PAYMENT</strong></td>
+                                <td>
+                                    <select id="mop" class="border-primary" name="modeofpayment">
+                                        <option name="cash" selected>Cash</option>
+                                        <option name="creditcard">Credit card</option>
+                                    </select>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <input id="btnPay" class="btn btn-primary btn-sm" value="Pay" onclick="payOrder('@Url.Action("Paying", "Main", new{ orderId = orderId, customerId = customerId}, Context.Request.Scheme)')" disabled="disabled"/>
+                    <a href="@Url.Action("PrintInvoice","Main", new{ orderId = orderId, customerId = customerId})" class="btn btn-primary btn-sm" target="_blank">Print invoice</a>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+else if (ViewBag.on != null && (ViewBag.Status == "available" || ViewBag.Status == "wait" || ViewBag.Status == "reserved"))
+{
+    <a onclick="showInPopup('@Url.Action("CreateAndOrder", "Main", new{tableNumber = ViewBag.on}, Context.Request.Scheme)','New Customer')" class="btn btn-success text-light"><i class="fas fa-plus-square"></i> New Customer</a>
+    <a href="@Url.Action("Create","Orders", new {tableNumber = ViewBag.on})" class="btn btn-primary"><i class="fas fa-arrow-alt-circle-right"></i> Returned customer</a>
+    if (ViewBag.Status == "wait")
+    {
+        <a href="@Url.Action("ReservationRequest", "Main")" class="btn btn-primary"><i class="fas fa-arrow-alt-circle-right"></i>Check reservation request</a>
+    }
+    if(ViewBag.Status == "reserved")
+    {
+        
+    }
+}
+
+<script>
+    $(document).ready(function () {
+        $("#customerpay").on('keyup', function () {
+            var total = $("#totalM").val();
+            var pay = $("#customerpay").val();
+            var rs = (Math.round((pay - total) * 100) / 100).toFixed(2);
+            $("#changemoney").val(rs);
+            if ($("#customerpay").val() == ""){
+                $("#changemoney").val("");
+            }
+            if(rs < 0 || $("#customerpay").val() == ""){
+                $("#btnPay").attr("disabled", "disabled");
+            }
+            else{
+                $("#btnPay").removeAttr("disabled");
+            }
+        });
+
+        $('#btnClearSearch').on('click', function () {
+            $("#myInput").val("");
+            $("#myInput").trigger("keyup");
+        });
+
+        $("#myInput").on("keyup", function () {
+            var value = $(this).val().toLowerCase();
+            $("#myTable tr").filter(function () {
+                $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+            });
+        });
+    })
+</script>

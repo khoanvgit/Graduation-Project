@@ -1,0 +1,121 @@
+﻿<ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
+
+    <a class="sidebar-brand d-flex align-items-center justify-content-center" href="~/Admin/Home">
+        <div class="sidebar-brand-icon rotate-n-15">
+            <img style="width: 50px; height: 50px;" src="~/images/logo.png" alt="#">
+        </div>
+        <div class="sidebar-brand-text mx-3">Restaurant</div>
+    </a>
+
+    <hr class="sidebar-divider my-0">
+    <li class="nav-item">
+        <a class="nav-link" href="~/Admin/Home">
+            <i class="fas fa-fw fa-tachometer-alt"></i>
+            <span>Dashboard</span>
+        </a>
+    </li>
+
+    <hr class="sidebar-divider">
+    <div class="sidebar-heading">
+        Management
+    </div>
+    <li class="nav-item">
+        <a class="nav-link" href="~/Admin/Main">
+            <i class="fas fa-fw fa-table"></i>
+            <span>General</span>
+        </a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="~/Admin/Customers">
+            <i class="fas fa-fw fa-users"></i>
+            <span>Customers</span>
+        </a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTwo"
+           aria-expanded="true" aria-controls="collapseTwo">
+            <i class="fas fa-child"></i>
+            <span>Staffs</span>
+        </a>
+        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
+            <div class="bg-white py-2 collapse-inner rounded">
+                <a class="collapse-item" href="~/Admin/Staffs">Staffs</a>
+                <a class="collapse-item" href="~/Admin/Groups">Groups</a>
+                <a class="collapse-item" href="~/Admin/Shifts">Shifts</a>
+                <a class="collapse-item" href="~/Admin/Users">Accounts</a>
+                <a class="collapse-item" href="~/Admin/Staffs/Schedule">Schedule</a>
+            </div>
+        </div>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="~/Admin/Reviews">
+            <i class="fas fa-comments"></i>
+            <span>Reviews</span>
+        </a>
+    </li>
+    <hr class="sidebar-divider">
+    <div class="sidebar-heading">
+        Requests
+    </div>
+    <li class="nav-item">
+        <a class="nav-link" href="~/Admin/Main/ReservationRequest">
+            <i class="fas fa-exclamation-circle"></i>
+            <span>Reservation requests</span>
+        </a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="~/Admin/Main/IngredientRequest">
+            <i class="fas fa-exclamation-circle"></i>
+            <span>Ingredient requests</span>
+        </a>
+    </li>
+
+    <hr class="sidebar-divider">
+    <div class="sidebar-heading">
+        Categories
+    </div>
+    <li class="nav-item">
+        <a class="nav-link" href="~/Admin/Dishes">
+            <i class="fas fa-fw fa-circle"></i>
+            <span>Dishes</span>
+        </a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="~/Admin/DishTypes">
+            <i class="fas fa-fw fa-circle-notch"></i>
+            <span>Dish types</span>
+        </a>
+    </li>
+
+    <hr class="sidebar-divider">
+
+    <div class="sidebar-heading">
+        Kitchen
+    </div>
+
+    <li class="nav-item">
+        <a class="nav-link" href="~/Admin/Ingredients">
+            <i class="fas fa-seedling"></i>
+            <span>Ingredient</span>
+        </a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="~/Admin/GoodsReceiptNotes">
+            <i class="fas fa-sticky-note"></i>
+            <span>Ingredient receipt note</span>
+        </a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="~/Admin/Stocks">
+            <i class="fas fa-box"></i>
+            <span>Stock</span>
+        </a>
+    </li>
+
+    <hr class="sidebar-divider d-none d-md-block">
+
+    <div class="text-center d-none d-md-inline">
+        <button class="rounded-circle border-0" id="sidebarToggle"></button>
+    </div>
+
+</ul>

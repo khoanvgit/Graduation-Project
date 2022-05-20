@@ -1,0 +1,59 @@
+﻿@model IEnumerable<ShiftDetail>
+
+<h1>Working schedule</h1>
+
+<table class="table text-center table-bordered">
+    <thead>
+        <tr>
+            <th scope="col">Day</th>
+            <th scope="col">Monday</th>
+            <th scope="col">Tuesday</th>
+            <th scope="col">Wednesday</th>
+            <th scope="col">Thursday</th>
+            <th scope="col">Friday</th>
+            <th scope="col">Saturday</th>
+            <th scope="col">Sunday</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="height: 200px;">
+            <th scope="row">Morning</th>
+            @for (int i = 0; i < 7; i++)
+            {
+                string sname = "";
+                @foreach (var sd in Model.Where(m => m.Shift.Name == "Morning").ToList())
+                {
+                    sname += (sd.Staff.FirstName + " " + sd.Staff.LastName + ", ");
+                }
+                sname = sname.Substring(0,sname.Length - 2);
+                <td>@sname</td>
+            }
+        </tr>
+        <tr style="height: 200px;">
+            <th scope="row">Afternoon</th>
+            @for (int i = 0; i < 7; i++)
+            {
+                string sname = "";
+                @foreach (var sd in Model.Where(m => m.Shift.Name == "Afternoon").ToList())
+                {
+                    sname += sd.Staff.FirstName + " " + sd.Staff.LastName + ", ";
+                }
+                sname = sname.Substring(0,sname.Length - 2);
+                <td>@sname</td>
+            }
+        </tr>
+        <tr style="height: 200px;">
+            <th scope="row">Night</th>
+            @for (int i = 0; i < 7; i++)
+            {
+                string sname = "";
+                @foreach (var sd in Model.Where(m => m.Shift.Name == "Night").ToList())
+                {
+                    sname += sd.Staff.FirstName + " " + sd.Staff.LastName + ", ";
+                }
+                sname = sname.Substring(0,sname.Length - 2);
+                <td>@sname</td>
+            }
+        </tr>
+    </tbody>
+</table>

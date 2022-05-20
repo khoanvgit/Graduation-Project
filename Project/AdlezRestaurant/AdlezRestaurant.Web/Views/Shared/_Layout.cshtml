@@ -1,0 +1,146 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- basic -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- mobile metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+
+    <!-- site metas -->
+    <title>Adlez - The best restaurant ever</title>
+
+    <!-- bootstrap css -->
+    <link rel="stylesheet" href="~/Guest/css/bootstrap.min.css">
+    <!-- style css -->
+    <link rel="stylesheet" href="~/Guest/css/style.css">
+    <!-- Responsive-->
+    <link rel="stylesheet" href="~/Guest/css/responsive.css">
+    <!-- fevicon -->
+    <link rel="icon" href="~/images/favicon.ico" type="image/png" />
+    <!-- Scrollbar Custom CSS -->
+    <link rel="stylesheet" href="~/Guest/css/jquery.mCustomScrollbar.min.css">
+
+    <!-- Tweaks for older IEs-->
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
+    <style>
+        .btnLog {
+            border-radius: 10px;
+            border: 2px solid white;
+            padding-top: 10px !important;
+            padding-bottom: 10px !important;
+        }
+
+        div.header ul > li.linkLog:hover {
+            border-radius: 10px;
+            background-color: white;
+        }
+
+        .btnLog:hover {
+            color: black !important;
+        }
+
+        .carousel-caption {
+            width: 50%;
+            margin: auto;
+        }
+
+        .send_btn:hover, .read_more:hover {
+            background-color: #754ced !important;
+        }
+
+        div.store_box img.dish_img {
+            width: 350px !important;
+            height: 250px !important;
+        }
+
+        img.star {
+            width: 10px !important;
+            height: 10px !important;
+        }
+
+        /*Button to the top*/
+        #myBtn {
+            display: none; /* Hidden by default */
+            position: fixed; /* Fixed/sticky position */
+            bottom: 20px; /* Place the button at the bottom of the page */
+            right: 30px; /* Place the button 30px from the right */
+            z-index: 99; /* Make sure it does not overlap */
+            border: none; /* Remove borders */
+            outline: none; /* Remove outline */
+            background-color: #754cee; /* Set a background color */
+            color: white; /* Text color */
+            cursor: pointer; /* Add a mouse pointer on hover */
+            padding: 15px; /* Some padding */
+            border-radius: 50%; /* Rounded corners */
+            font-size: 10px; /* Increase font size */
+            width: 50px;
+            height: 50px;
+        }
+
+            #myBtn:hover {
+                background-color: #a556f5; /* Add a dark-grey background on hover */
+            }
+
+        #talk {
+            margin-top: 0px !important;
+            border-top: none;
+        }
+    </style>
+</head>
+<!-- body -->
+<body class="main-layout">
+    <!-- loader  -->
+    <partial name="_LoaderPartial" />
+    <!-- end loader -->
+    <!-- header -->
+    <partial name="_HeaderPartial" />
+    <!-- end header -->
+    @RenderBody()
+    <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fa fa-chevron-up" aria-hidden="true"></i></button>
+    <!--  footer -->
+    <partial name="_FooterPartial" />
+    <!-- end footer -->
+    <!-- Javascript files-->
+    <script src="~/Guest/js/jquery.min.js"></script>
+    <script src="~/Guest/js/popper.min.js"></script>
+    <script src="~/Guest/js/bootstrap.bundle.min.js"></script>
+    <script src="~/Guest/js/jquery-3.0.0.min.js"></script>
+    <script src="~/Guest/js/plugin.js"></script>
+    <!-- sidebar -->
+    <script src="~/Guest/js/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script src="~/Guest/js/custom.js"></script>
+    <script src="https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+
+    <script>
+        //Script btn to the top
+        //Get the button:
+        mybutton = document.getElementById("myBtn");
+
+        // When the user scrolls down 20px from the top of the document, show the button
+        window.onscroll = function() {scrollFunction()};
+
+        function scrollFunction() {
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                mybutton.style.display = "block";
+            }
+            else {
+                mybutton.style.display = "none";
+            }
+        }
+
+        // When the user clicks on the button, scroll to the top of the document
+        function topFunction() {
+          document.body.scrollTop = 0; // For Safari
+          document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+        }
+    </script>
+</body>
+</html>

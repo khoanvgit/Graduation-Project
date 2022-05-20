@@ -1,0 +1,33 @@
+﻿@using AdlezRestaurant.Web.Areas.Admin.ViewModels
+@model GeneralModel
+
+<div class="col-xxl-12">
+    <div class="card">
+        <div class="card-header border-0 pb-0 d-sm-flex d-block">
+            <h4 class="card-title mb-1">Table Management</h4>
+        </div>
+        <div class="card-body orders-summary">
+            <form autocomplete="off">
+                @foreach (var item in Model.Tables)
+                {
+                    if (item.Status == "available" || item.Status == "wait")
+                    {
+                        <input onclick="tableClick('@Url.Action("Detail", "Main", new {number = @item.Number}, Context.Request.Scheme)')" style="width:90px; height:80px; margin: 10px;" class="btn btn-success" value="@item.Number" />
+                        if (item.Status == "wait")
+                        {
+                            <i class="fas fa-question m-0 p-0" style="position: relative; left: -95px; top: -25px; z-index:99;"></i>
+                        }
+                    }
+                    if (item.Status == "busy")
+                    {
+                        <input onclick="tableClick('@Url.Action("Detail", "Main", new {number = @item.Number}, Context.Request.Scheme)')" style="width:90px; height:80px; margin: 10px;" class="btn btn-danger" value="@item.Number" />
+                    }
+                    if (item.Status == "reserved")
+                    {
+                        <input onclick="tableClick('@Url.Action("Detail", "Main", new {number = @item.Number}, Context.Request.Scheme)')" style="width:90px; height:80px; margin: 10px;" class="btn btn-warning" value="@item.Number" />
+                    }
+                }
+            </form>
+        </div>
+    </div>
+</div>

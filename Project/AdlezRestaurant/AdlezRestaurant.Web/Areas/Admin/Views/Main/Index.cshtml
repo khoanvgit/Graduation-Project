@@ -1,0 +1,17 @@
+﻿@using AdlezRestaurant.Web.Areas.Admin.ViewModels
+@model GeneralModel
+@{
+    var dt = DateTime.Now;
+}
+
+<div class="form-head d-flex mb-3 align-items-start">
+    <div class="mr-auto d-none d-lg-block">
+        <h2 class="text-black font-w600 mb-0">General</h2>
+    </div>
+</div>
+<div class="row" id="view_tables">
+    @await Html.PartialAsync("_Tables", Model)
+</div>
+<div class="row" id="view_detail">
+    @await Html.PartialAsync("_Detail", Model)
+</div>

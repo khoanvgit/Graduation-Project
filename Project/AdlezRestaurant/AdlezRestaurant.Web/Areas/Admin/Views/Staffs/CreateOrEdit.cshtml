@@ -1,0 +1,152 @@
+﻿@model AdlezRestaurant.Core.Models.Staff
+
+@{
+    ViewData["Title"] = "CreateOrEdit";
+    Layout = "";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="CreateOrEdit" asp-route-id="@Model.StaffId" onsubmit="return JqueryAjaxPost(this)" autocomplete="off">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="StaffId" />
+            <div class="form-group">
+                <label asp-for="GroupId" class="control-label"></label>
+                <select asp-for="GroupId" class="form-control" asp-items="ViewBag.GroupId"></select>
+                <span asp-validation-for="GroupId" class="text-danger"></span>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="FirstName" class="control-label"></label>
+                        <input asp-for="FirstName" class="form-control" />
+                        <span asp-validation-for="FirstName" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="LastName" class="control-label"></label>
+                        <input asp-for="LastName" class="form-control" />
+                        <span asp-validation-for="LastName" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <label class="control-label">Gender</label>
+                        <br />
+                        <div class="border rounded">
+                            <div class="p-3">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <label for="gender_male" class="control-label">Male</label>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <input type="radio" id="gender_male" name="gender" value="m" checked="@ViewBag.isMale" />
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <label for="gender_female" class="control-label">Female</label>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <input type="radio" id="gender_female" name="gender" value="f" checked="@ViewBag.isFemale" />
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <label for="gender_other" class="control-label">Other</label>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <input type="radio" id="gender_other" name="gender" value="o" checked="@ViewBag.isOther" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <span class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-8">
+                    <div class="form-group">
+                        <label asp-for="Email" class="control-label"></label>
+                        <input asp-for="Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Address" class="control-label"></label>
+                        <input asp-for="Address" class="form-control" />
+                        <span asp-validation-for="Address" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="City" class="control-label"></label>
+                        <input asp-for="City" class="form-control" />
+                        <span asp-validation-for="City" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Phone" class="control-label"></label>
+                        <input asp-for="Phone" class="form-control" />
+                        <span asp-validation-for="Phone" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Birthday" class="control-label"></label>
+                        <input asp-for="Birthday" class="form-control" />
+                        <span asp-validation-for="Birthday" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                @if (@Model.StaffId == 0)
+                {
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="Image" class="control-label"></label>
+                            <input asp-for="Image" type="file" class="form-control" onchange="document.getElementById('pre_img').src = window.URL.createObjectURL(this.files[0])" />
+                            <span asp-validation-for="Image" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        Preview<br>
+                        <img id="pre_img" alt="No image" width="80" height="80" />
+                    </div>
+                }
+                else
+                {
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="Image" class="control-label"></label>
+                            <input asp-for="Image" type="file" class="form-control" onchange="document.getElementById('pre_img').src = window.URL.createObjectURL(this.files[0])" />
+                            <span asp-validation-for="Image" class="text-danger"></span>
+                            <input id="kimage" name="kimage" value="@Model.Image" hidden>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        Preview<br>
+                        <img id="pre_img" src="/StaffImages/@Model.Image" width="80" height="80" />
+                    </div>
+                }
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Submit" class="btn btn-block btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+    await Html.RenderPartialAsync("_ValidationScriptsPartial");
+}
+}

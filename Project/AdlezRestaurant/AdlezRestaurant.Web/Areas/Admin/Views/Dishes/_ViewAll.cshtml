@@ -1,0 +1,59 @@
+﻿@model IEnumerable<AdlezRestaurant.Core.Models.Dish>
+
+<table class="table" id="userDatatable">
+    <thead>
+        <tr>
+            <th width="15%">
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th width="40%">
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th width="10%">
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th width="15%">
+                @Html.DisplayNameFor(model => model.Image)
+            </th>
+            <th width="10%">
+                Dish type
+            </th>
+            <th width="10%">
+                <a onclick="showInPopup('@Url.Action("CreateOrEdit", "Dishes", null, Context.Request.Scheme)','Dishes')" class="btn btn-success text-light"><i class="fas fa-plus-square"></i> New</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    <details>
+                        <summary>Click to see detail</summary>
+                        <p>
+                            @Html.Raw(item.Description)
+                        </p>
+                    </details>
+                </td>
+                <td>
+                    $@Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    <img src="/DishImages/@item.Image" width="80" height="80" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DishType.Name)
+                </td>
+                <td>
+                    <a style="color: blue; cursor: pointer; float: left; margin-right: 40px;" onclick="showInPopup('@Url.Action("CreateOrEdit", "Dishes", new{id = @item.DishId}, Context.Request.Scheme)','Dishes')"><i class="fas fa-edit"></i></a>
+                    <form asp-action="Delete" asp-route-id="@item.DishId" onsubmit="return JqueryAjaxDelete(this)" class="d-inline">
+                        <button type="submit" style="border-top-style: hidden;border-bottom-style: hidden;border-left-style: hidden;border-right-style: hidden; outline: none; color: red; background-color: transparent;"><i class="fas fa-trash"></i></button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

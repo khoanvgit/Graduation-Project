@@ -1,0 +1,48 @@
+﻿@model IEnumerable<AdlezRestaurant.Core.Models.Ingredient>
+
+<table class="table" id="userDatatable">
+    <thead>
+        <tr>
+            <th width="5%">
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th width="5%">
+                @Html.DisplayNameFor(model => model.CalculationUnit)
+            </th>
+            <th width="70%">
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th width="10%">
+                @Html.DisplayNameFor(model => model.Image)
+            </th>
+            <th width="10%">
+                <a onclick="showInPopup('@Url.Action("CreateOrEdit", "Ingredients", null, Context.Request.Scheme)','Ingredient')" class="btn btn-success text-light"><i class="fas fa-plus-square"></i> New</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CalculationUnit)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    <img src="/IngredientImages/@item.Image" width="80" height="80" />
+                </td>
+                <td>
+                    <a style="color: blue; cursor: pointer; float: left; margin-right: 40px;" onclick="showInPopup('@Url.Action("CreateOrEdit", "Ingredients", new{id = @item.IngredientId}, Context.Request.Scheme)','Ingredient')"><i class="fas fa-edit"></i></a>
+                    <form asp-action="Delete" asp-route-id="@item.IngredientId" onsubmit="return JqueryAjaxDelete(this)" class="d-inline">
+                        <button type="submit" style="border-top-style: hidden;border-bottom-style: hidden;border-left-style: hidden;border-right-style: hidden; outline: none; color: red; background-color: transparent;"><i class="fas fa-trash"></i></button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

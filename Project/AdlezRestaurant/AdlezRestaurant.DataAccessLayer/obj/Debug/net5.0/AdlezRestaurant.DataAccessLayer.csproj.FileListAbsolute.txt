@@ -1,0 +1,15 @@
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.DataAccessLayer\bin\Debug\net5.0\AdlezRestaurant.DataAccessLayer.deps.json
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.DataAccessLayer\bin\Debug\net5.0\AdlezRestaurant.DataAccessLayer.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.DataAccessLayer\bin\Debug\net5.0\ref\AdlezRestaurant.DataAccessLayer.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.DataAccessLayer\bin\Debug\net5.0\AdlezRestaurant.DataAccessLayer.pdb
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.DataAccessLayer\bin\Debug\net5.0\AdlezRestaurant.Core.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.DataAccessLayer\bin\Debug\net5.0\AdlezRestaurant.Core.pdb
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.DataAccessLayer\obj\Debug\net5.0\AdlezRestaurant.DataAccessLayer.csproj.AssemblyReference.cache
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.DataAccessLayer\obj\Debug\net5.0\AdlezRestaurant.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.DataAccessLayer\obj\Debug\net5.0\AdlezRestaurant.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.DataAccessLayer\obj\Debug\net5.0\AdlezRestaurant.DataAccessLayer.AssemblyInfo.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.DataAccessLayer\obj\Debug\net5.0\AdlezRestaurant.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.DataAccessLayer\obj\Debug\net5.0\AdlezRestaurant.DataAccessLayer.csproj.CopyComplete
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.DataAccessLayer\obj\Debug\net5.0\AdlezRestaurant.DataAccessLayer.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.DataAccessLayer\obj\Debug\net5.0\ref\AdlezRestaurant.DataAccessLayer.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.DataAccessLayer\obj\Debug\net5.0\AdlezRestaurant.DataAccessLayer.pdb

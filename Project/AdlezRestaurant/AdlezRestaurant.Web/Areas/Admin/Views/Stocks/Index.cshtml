@@ -1,0 +1,105 @@
+﻿@using AdlezRestaurant.Web.Const
+@model IEnumerable<AdlezRestaurant.Core.Models.Stock>
+
+@{
+    ViewData["Title"] = "Index";
+    List<Ingredient> list = (List<Ingredient>)ViewBag.ingredients;
+    int loadNumber = 0;
+    if (ViewBag.loadNumber != null)
+    {
+        loadNumber = ViewBag.loadNumber;
+    }
+}
+
+<h1>Stock</h1>
+
+<p>
+    <a asp-action="ReportLeftIngredient">Report left ingredient</a>
+</p>
+
+<div class="container">
+    <div class="row justify-content-between border-bottom-info">
+        <div class="form-group col-6">
+            <input id="searchStock" type="search" name="search" class="form-control" placeholder="Type something to search..." />
+        </div>
+        <div class="form-group">
+        <label class="form-label">Quantity: </label>
+            @if (ViewBag.sortOpt == @SortOption.ASC)
+            {
+                <a asp-action="Index" asp-controller="Stocks" asp-route-sortOpt="@SortOption.DESC" class="btn btn-primary btn-sm"><i class="fas fa-arrow-down"></i></a>
+            }
+            else if(ViewBag.sortOpt == @SortOption.DESC)
+            {
+                <a asp-action="Index" asp-controller="Stocks" asp-route-sortOpt="@SortOption.ASC" class="btn btn-primary btn-sm"><i class="fas fa-arrow-up"></i></a>
+            }
+            else
+            {
+                <a asp-action="Index" asp-controller="Stocks" asp-route-sortOpt="@SortOption.ASC" class="btn btn-primary btn-sm"><i class="fas fa-arrow-up"></i></a>
+            }
+        </div>
+    </div>
+    <div id="stockSection" class="d-flex flex-row flex-md-wrap justify-content-center">
+        @foreach (var item in Model)
+        {
+            foreach (var item2 in list)
+            {
+                if (item.IngredientId == item2.IngredientId)
+                {
+                    <div id="stockIngr" class="card m-3" style="width: 20rem;">
+                        <img class="card-img-top" src="/IngredientImages/@item2.Image" alt="Card image cap" width="100" height="200">
+                        <div class="card-body">
+                            <div class="row mb-3">
+                                <div class="col-12 pl-2">
+                                    <h5 class="card-title">Name: <span>@Html.DisplayFor(modelItem => item.Name)</span></h5>
+                                </div>
+                                <div class="col-8 pl-2">
+                                    <p class="card-text m-0">Unit: @Html.DisplayFor(modelItem => item.CalculationUnit)</p>
+                                </div>
+                                <div class="col-4">
+                                    @if (@item.Quantity <= 10)
+                                    {
+                                        <img src="~/images/icons8-warning-48.png" alt="#" />
+                                    }
+                                    else
+                                    {
+                                        <img src="~/images/icons8-thumbs-up-100.png" height="48" width="48" alt="#" />
+                                    }
+                                </div>
+                            </div>
+                            <div class="row">
+                                <label for="stock_quantity" class="m-0 ml-2" style="width: 80px; text-align:center; display: flex; align-items: center;">Remain</label>
+                                <input id="stock_quantity" class="btn btn-primary d-inline" value="@item.Quantity" />
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+        }
+    </div>
+    @if (loadNumber <= Model.Count())
+    {
+        <div class="container">
+            <a asp-action="Index" asp-controller="Stocks" asp-route-loadNumber="@loadNumber" class="text-decoration-none">
+                <div class="row justify-content-center">
+                    Show more
+                </div>
+                <div class="row justify-content-center">
+                    <i class="fas fa-angle-double-down"></i>
+                </div>
+            </a>
+        </div>
+    }
+</div>
+
+@section Scripts{
+    <script>
+        $(document).ready(function(){
+          $("#searchStock").on("input", function() {
+            var value = $(this).val().toLowerCase();
+            $("#stockSection #stockIngr").filter(function() {
+              $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+            }); 
+          });
+        });
+    </script>
+}

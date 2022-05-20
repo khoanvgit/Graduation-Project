@@ -1,0 +1,15 @@
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Core\bin\Debug\net5.0\AdlezRestaurant.Core.deps.json
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Core\bin\Debug\net5.0\AdlezRestaurant.Core.runtimeconfig.json
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Core\bin\Debug\net5.0\AdlezRestaurant.Core.runtimeconfig.dev.json
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Core\bin\Debug\net5.0\AdlezRestaurant.Core.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Core\bin\Debug\net5.0\ref\AdlezRestaurant.Core.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Core\bin\Debug\net5.0\AdlezRestaurant.Core.pdb
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Core\obj\Debug\net5.0\AdlezRestaurant.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Core\obj\Debug\net5.0\AdlezRestaurant.Core.AssemblyInfoInputs.cache
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Core\obj\Debug\net5.0\AdlezRestaurant.Core.AssemblyInfo.cs
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Core\obj\Debug\net5.0\AdlezRestaurant.Core.csproj.CoreCompileInputs.cache
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Core\obj\Debug\net5.0\AdlezRestaurant.Core.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Core\obj\Debug\net5.0\ref\AdlezRestaurant.Core.dll
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Core\obj\Debug\net5.0\AdlezRestaurant.Core.pdb
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Core\obj\Debug\net5.0\AdlezRestaurant.Core.genruntimeconfig.cache
+D:\Game\QuanLyNhaHang\Project\AdlezRestaurant\AdlezRestaurant.Core\obj\Debug\net5.0\AdlezRestaurant.Core.csproj.AssemblyReference.cache

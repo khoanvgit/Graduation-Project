@@ -1,0 +1,98 @@
+﻿@using AdlezRestaurant.Web.Areas.Admin.ViewModels
+@using AdlezRestaurant.Web.Const
+@model IEnumerable<ReceiptNote>
+
+    <h1>Ingredient requests</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.StockInId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StaffName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TotalMoney)
+            </th>
+            <th>
+                Details
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th class="text-center">
+                <a href="@Url.Action("MakeDecision","Main", new {allApproved = true, requestType = "Ingredient"})" class="btn btn-success" onclick="askBefore(event)">Approve all</a>
+                <a href="@Url.Action("MakeDecision","Main", new {allDeclined = true, requestType = "Ingredient"})" class="btn btn-danger" onclick="askBefore(event)">Cancel all</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Count() > 0)
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.StockInId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.StaffName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CreatedDate)
+                    </td>
+                    <td>
+                        @item.TotalMoney.ToString("C2")
+                    </td>
+                    <td>
+                        <a asp-action="Details" asp-controller="GoodsReceiptNotes" asp-route-id="@item.StockInId" class="text-info mr-2"><i class="fas fa-eye"></i></a>
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Status)
+                    </td>
+                    <td align="center">
+                        @if (item.Status == ReceiptNoteStatus.Pending)
+                        {
+                            <a href="@Url.Action("MakeDecision","Main", new { rid = item.StockInId, requestType = "Ingredient", approved = true})" class="btn btn-success"><i class="fas fa-check"></i></a>
+                            <a href="@Url.Action("MakeDecision","Main", new { rid = item.StockInId, requestType = "Ingredient"})" class="btn btn-danger"><i class="fas fa-times"></i></a>
+                        }
+                        else if (item.Status == ReceiptNoteStatus.Approved)
+                        {
+                            <form asp-action="UpdateStock" asp-controller="Stocks" method="post">
+                                <input hidden name="stockInId" type="number" value="@item.StockInId" />
+                                <input hidden name="totalCount" type="number" value="@item.GoodsReceiptNotes.Count" />
+                                @for (int i = 0; i < item.GoodsReceiptNotes.Count; i++)
+                                {
+                                    var ingrId = $"ingrId{i}";
+                                    var ingrName = $"ingrName{i}";
+                                    var calUnit = $"calUnit{i}";
+                                    var quantity = $"quantity{i}";
+                                    <input hidden name="@ingrId" type="number" value="@item.GoodsReceiptNotes[i].IngredientId" />
+                                    <input hidden name="@ingrName" type="text" value="@item.GoodsReceiptNotes[i].Ingredient.Name" />
+                                    <input hidden name="@calUnit" type="text" value="@item.GoodsReceiptNotes[i].Ingredient.CalculationUnit" />
+                                    <input hidden name="@quantity" type="number" value="@item.GoodsReceiptNotes[i].GoodsNumber" />
+                                }
+                                <input type="submit" class="btn btn-success" value="Arrived!" />
+                            </form>
+                        }
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+
+@section Scripts{
+<script>
+    function askBefore(e){
+        if(!confirm("Are you sure to make changes all decision?")){
+            e.preventDefault();
+        }
+    }
+</script>
+}

@@ -1,0 +1,75 @@
+﻿@model AdlezRestaurant.Core.Models.Dish
+
+@{
+    ViewData["Title"] = "CreateOrEdit";
+    Layout = "";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="CreateOrEdit" asp-route-id="@Model.DishId" onsubmit="return JqueryAjaxPost(this)" autocomplete="off" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="DishId" />
+            <div class="form-group">
+                <label asp-for="DishTypeId" class="control-label"></label>
+                <select asp-for="DishTypeId" class="form-control" asp-items="ViewBag.DishTypeId"></select>
+                <span asp-validation-for="DishTypeId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <textarea asp-for="Description" class="form-control"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="row">
+                @if (@Model.DishId == 0)
+                {
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="Image" class="control-label"></label>
+                            <input asp-for="Image" type="file" class="form-control" onchange="document.getElementById('pre_img').src = window.URL.createObjectURL(this.files[0])" />
+                            <span asp-validation-for="Image" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        Preview<br>
+                        <img id="pre_img" alt="No image" width="80" height="80" />
+                    </div>
+                }
+                else
+                {
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="Image" class="control-label"></label>
+                            <input asp-for="Image" type="file" class="form-control" onchange="document.getElementById('pre_img').src = window.URL.createObjectURL(this.files[0])" />
+                            <span asp-validation-for="Image" class="text-danger"></span>
+                            <input id="kimage" name="kimage" value="@Model.Image" hidden>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        Preview<br>
+                        <img id="pre_img" src="/DishImages/@Model.Image" width="80" height="80" />
+                    </div>
+                }
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Submit" class="btn btn-block btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+    await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

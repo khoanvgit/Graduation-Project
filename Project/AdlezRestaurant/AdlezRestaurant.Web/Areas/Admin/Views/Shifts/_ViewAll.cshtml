@@ -1,0 +1,44 @@
+﻿@model IEnumerable<AdlezRestaurant.Core.Models.Shift>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TimeBegin)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TimeFinish)
+            </th>
+            <th>
+                <a onclick="showInPopup('@Url.Action("CreateOrEdit", "Shifts", null, Context.Request.Scheme)','Shift')" class="btn btn-success text-light"><i class="fas fa-plus-square"></i> New</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TimeBegin)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TimeFinish)
+                </td>
+                <td>
+                    <a style="color: blue; cursor: pointer; float: left; margin-right: 40px;" onclick="showInPopup('@Url.Action("CreateOrEdit", "Shifts", new{id = @item.ShiftId}, Context.Request.Scheme)','Shift')"><i class="fas fa-edit"></i></a>
+                    <form asp-action="Delete" asp-route-id="@item.ShiftId" onsubmit="return JqueryAjaxDelete(this)" class="d-inline">
+                        <button type="submit" style="border-top-style: hidden;border-bottom-style: hidden;border-left-style: hidden;border-right-style: hidden; outline: none; color: red; background-color: transparent;"><i class="fas fa-trash"></i></button>
+                    </form>
+                    <a style="cursor: pointer; float: left; margin-right: 40px;" onclick="showInPopup('@Url.Action("ManageStaff", "Shifts", new{id = @item.ShiftId}, Context.Request.Scheme)','Manage working time')"><i class="fas fa-tasks"></i></a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

@@ -1,0 +1,39 @@
+﻿@model AdlezRestaurant.Core.Models.Shift
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="CreateOrEdit" asp-route-id="@Model.ShiftId" onsubmit="return JqueryAjaxPost(this)" autocomplete="off">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="ShiftId" />
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TimeBegin" class="control-label"></label>
+                <input asp-for="TimeBegin" class="form-control" />
+                <span asp-validation-for="TimeBegin" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TimeFinish" class="control-label"></label>
+                <input asp-for="TimeFinish" class="form-control" />
+                <span asp-validation-for="TimeFinish" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Submit" class="btn btn-block btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+    await Html.RenderPartialAsync("_ValidationScriptsPartial");
+}
+}

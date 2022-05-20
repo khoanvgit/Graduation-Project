@@ -1,0 +1,57 @@
+﻿@model Reservation
+<div class="container border">
+    <h1 align="center">@ViewBag.msg</h1>
+    @if (Model != null)
+    {
+        <div class="row">
+            <h4 class="pl-3">Here is your reservation information</h4>
+        </div>
+        <div class="row" style="text-align: center;">
+            <h2>Reservation id: ALR-@Model.ReservationId</h2>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <label>Your name: </label>
+                <label>@Model.CustomerName</label>
+            </div>
+            <div class="col-md-6">
+                <label>Your phone number: </label>
+                <label>@Model.PhoneNumber</label>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <label>Reservated time: </label>
+                <label>@Model.ReservedDate</label>
+            </div>
+            <div class="col-md-6">
+                <label>Number of people: </label>
+                <label>@Model.NumberOfPeople</label>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <label>Vip room: </label>
+                <label>
+                    @if (@Model.Viproom == null)
+                    {
+                        @: No
+                    }
+                    else if (@Model.Viproom)
+                    {
+                        @: Yes
+                    }
+                    else
+                    {
+                        @: No
+                    }
+                </label>
+            </div>
+            <div class="col-md-6">
+                <label>Table number: </label>
+                <label>@Model.TableNumber</label>
+            </div>
+        </div>
+
+    }
+</div>
