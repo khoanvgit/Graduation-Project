@@ -139,7 +139,6 @@ namespace AdlezRestaurant.Web.Areas.Admin.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult CreateOrEdit(int id, IFormCollection frm)
         {
-
             if (id == 0)
             {
                 if (int.Parse(frm["totalRow"]) >= 1)

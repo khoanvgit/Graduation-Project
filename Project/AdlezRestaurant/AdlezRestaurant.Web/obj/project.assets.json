@@ -6894,11 +6894,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wolf\\Downloads\\Compressed\\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\\Project\\AdlezRestaurant\\AdlezRestaurant.Web\\AdlezRestaurant.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Wolf\\Downloads\\Compressed\\DoAnTotNghiep\\Project\\AdlezRestaurant\\AdlezRestaurant.Web\\AdlezRestaurant.Web.csproj",
       "projectName": "AdlezRestaurant.Web",
-      "projectPath": "C:\\Users\\Wolf\\Downloads\\Compressed\\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\\Project\\AdlezRestaurant\\AdlezRestaurant.Web\\AdlezRestaurant.Web.csproj",
+      "projectPath": "C:\\Users\\Wolf\\Downloads\\Compressed\\DoAnTotNghiep\\Project\\AdlezRestaurant\\AdlezRestaurant.Web\\AdlezRestaurant.Web.csproj",
       "packagesPath": "C:\\Users\\Wolf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wolf\\Downloads\\Compressed\\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\\Project\\AdlezRestaurant\\AdlezRestaurant.Web\\obj\\",
+      "outputPath": "C:\\Users\\Wolf\\Downloads\\Compressed\\DoAnTotNghiep\\Project\\AdlezRestaurant\\AdlezRestaurant.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Wolf\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6915,8 +6915,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Wolf\\Downloads\\Compressed\\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\\Project\\AdlezRestaurant\\AdlezRestaurant.DataAccessLayer\\AdlezRestaurant.DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\Wolf\\Downloads\\Compressed\\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\\Project\\AdlezRestaurant\\AdlezRestaurant.DataAccessLayer\\AdlezRestaurant.DataAccessLayer.csproj"
+            "C:\\Users\\Wolf\\Downloads\\Compressed\\DoAnTotNghiep\\Project\\AdlezRestaurant\\AdlezRestaurant.DataAccessLayer\\AdlezRestaurant.DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\Wolf\\Downloads\\Compressed\\DoAnTotNghiep\\Project\\AdlezRestaurant\\AdlezRestaurant.DataAccessLayer\\AdlezRestaurant.DataAccessLayer.csproj"
             }
           }
         }

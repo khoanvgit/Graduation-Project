@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TZiuOQ+FIQ6ZgfyRmERFoYcpnfqCDorpxz2TGuzSa2c0V2BVwytmnLxxgM5ga2CfvsBYRsH6PIxwGMi8PlHtHA==",
+  "dgSpecHash": "Utq4GEdKuCmJfGQ7r7G+Xr1Xyf+ErF4TdpRnXk9XEPSV6QMbT2HQFqxDk67UcH+3NKitQ6b9OWlmNk6sD26CHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wolf\\Downloads\\Compressed\\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\\Project\\AdlezRestaurant\\AdlezRestaurant.Web\\AdlezRestaurant.Web.csproj",
+  "projectFilePath": "C:\\Users\\Wolf\\Downloads\\Compressed\\DoAnTotNghiep\\Project\\AdlezRestaurant\\AdlezRestaurant.Web\\AdlezRestaurant.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wolf\\.nuget\\packages\\azure.core\\1.20.0\\azure.core.1.20.0.nupkg.sha512",
     "C:\\Users\\Wolf\\.nuget\\packages\\azure.identity\\1.5.0\\azure.identity.1.5.0.nupkg.sha512",

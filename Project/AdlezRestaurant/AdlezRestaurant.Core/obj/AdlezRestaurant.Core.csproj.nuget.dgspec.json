@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wolf\\Downloads\\Compressed\\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\\Project\\AdlezRestaurant\\AdlezRestaurant.Core\\AdlezRestaurant.Core.csproj": {}
+    "C:\\Users\\Wolf\\Downloads\\Compressed\\DoAnTotNghiep\\Project\\AdlezRestaurant\\AdlezRestaurant.Core\\AdlezRestaurant.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wolf\\Downloads\\Compressed\\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\\Project\\AdlezRestaurant\\AdlezRestaurant.Core\\AdlezRestaurant.Core.csproj": {
+    "C:\\Users\\Wolf\\Downloads\\Compressed\\DoAnTotNghiep\\Project\\AdlezRestaurant\\AdlezRestaurant.Core\\AdlezRestaurant.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wolf\\Downloads\\Compressed\\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\\Project\\AdlezRestaurant\\AdlezRestaurant.Core\\AdlezRestaurant.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Wolf\\Downloads\\Compressed\\DoAnTotNghiep\\Project\\AdlezRestaurant\\AdlezRestaurant.Core\\AdlezRestaurant.Core.csproj",
         "projectName": "AdlezRestaurant.Core",
-        "projectPath": "C:\\Users\\Wolf\\Downloads\\Compressed\\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\\Project\\AdlezRestaurant\\AdlezRestaurant.Core\\AdlezRestaurant.Core.csproj",
+        "projectPath": "C:\\Users\\Wolf\\Downloads\\Compressed\\DoAnTotNghiep\\Project\\AdlezRestaurant\\AdlezRestaurant.Core\\AdlezRestaurant.Core.csproj",
         "packagesPath": "C:\\Users\\Wolf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wolf\\Downloads\\Compressed\\Xay dung website quan ly nha hang do Au Adlez bang ASP.NET\\Project\\AdlezRestaurant\\AdlezRestaurant.Core\\obj\\",
+        "outputPath": "C:\\Users\\Wolf\\Downloads\\Compressed\\DoAnTotNghiep\\Project\\AdlezRestaurant\\AdlezRestaurant.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wolf\\AppData\\Roaming\\NuGet\\NuGet.Config",
