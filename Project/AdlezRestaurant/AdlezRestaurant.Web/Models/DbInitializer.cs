@@ -145,9 +145,11 @@ namespace AdlezRestaurant.Web.Models
 
         private static void ExcuteSqlScript()
         {
-            string sqlConnectionString = @"Server=Wolf\SQLEXPRESS;Database=Restaurant;Trusted_Connection=True;";
-
-            string script = File.ReadAllText(@"D:\Game\QuanLyNhaHang\Data-restaurant.sql");
+            string sqlConnectionString = @"Server=.;Database=Restaurant;Trusted_Connection=True;";
+            
+            var sqlDataPath = Path.GetDirectoryName(System.Reflection.Assembly.GetEntryAssembly().Location) + "\\..\\..\\..\\..\\..\\..\\Data-restaurant.sql";
+            
+            string script = File.ReadAllText(sqlDataPath);
 
             SqlConnection conn = new SqlConnection(sqlConnectionString);
 
